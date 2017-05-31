@@ -1,3 +1,16 @@
 h1 {
   text-align: center;
 }
+
+.card {
+  border: 2px solid cyan;
+  height: 200px;
+}
+
+.hidden {
+  display: none;
+}
+
+p {
+  font-weight: bold;
+}
